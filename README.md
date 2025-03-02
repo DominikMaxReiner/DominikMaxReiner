@@ -1,4 +1,4 @@
-#👋 Hi, I’m @DominikMaxReiner
+# 👋 Hi, I’m @DominikMaxReiner
 - 🏙️ I’m living in Berlin, Germany
 - 🏫 I’m a student at a high school
 - 😄 Pronouns: he/him
