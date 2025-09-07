@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @DominikMaxReiner
-- 🏙️ I’m living in Berlin, Germany
+- 🏙️ I’m living in Paradise, Ca (due to an exchange year: I’m from Berlin, Germany) 
 - 🏫 I’m a student at a high school
 - 😄 Pronouns: he/him
 ## 👀 Hobbies:
