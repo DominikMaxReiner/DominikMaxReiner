@@ -11,7 +11,7 @@
 - XAML 📜
 - C# 🎯
 ## 🌱 I’m currently working on:
-- practicing my C# skills (learning LINQ)
+- fixing bugs in finished projects
 ## 📫 How to reach me
 - Feel free to reach me through this [Communication Issue](https://github.com/DominikMaxReiner/DominikMaxReiner/issues/1) for any questions, feedback, or general discussion! 😊
 ## ⚡ Fun fact:
